@@ -1,5 +1,6 @@
 # MICCAI Special Interest Group Biomedical Image Registration 
-## SIG-BIR
+## SIG-BIR [![Static Badge](https://img.shields.io/badge/MICCAI-SIG_BIR-%2337677e?style=flat&labelColor=%23ececec&link=https%3A%2F%2Fmiccai.org%2Findex.php%2Fspecial-interest-groups%2Fbir%2F)](https://miccai.org/index.php/special-interest-groups/bir/)
+
 ![image](https://github.com/user-attachments/assets/d38e3baf-2111-4bcf-8537-cfc58dc33013)
 
 
